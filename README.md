@@ -13,4 +13,6 @@ Cryptscripts.py is for basic cryptology,it includes base64 encoding and decoding
 
 **_usage : python3 cryptscripts.py_**
 
-*Cryptscripts.py Version:1.0*Ddworken
+*Cryptscripts.py Version:1.0* 
+
+*Jesus Saves*
